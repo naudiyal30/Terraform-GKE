@@ -1,4 +1,4 @@
-# terraform-gke
+# terraform-GKE
 
 Launch and manage a GKE cluster using Terraform.
 
